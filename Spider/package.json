@@ -4,7 +4,7 @@
   "description": "a douban movie spider tool",
   "main": "douban.js",
   "dependencies": {
-    "async": "^3.0.1",
+    "async": "^3.2.2",
     "cheerio": "^0.22.0",
     "eventproxy": "^1.0.0",
     "mongodb": "^3.2.6",
